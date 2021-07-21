@@ -2,3 +2,5 @@
 x64/
 *.sln
 *.vcxproj
+*.users
+*.filters
